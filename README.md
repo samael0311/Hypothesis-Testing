@@ -22,6 +22,7 @@ Sales of products in four different regions is tabulated for males and females. 
  Females   550       351         480           350
 
 H0:-All proportions are equal
+
 Ha:-Not all Proportions are equal
 
 Check p-value
